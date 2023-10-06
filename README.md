@@ -21,7 +21,6 @@
 
 - `bisection(f, x0, x1, kmax, tol)`: Implements the bisection method to find the root of a given function `f` within an interval `[x0, x1]`.
 
-Certainly! Here are the names of the methods you used in your code:
 
 1. `pivot` - Used for row pivoting in matrix operations.
 2. `scale` - Used for scaling a row in a matrix.
