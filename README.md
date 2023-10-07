@@ -13,7 +13,8 @@
 
 - `cholesky_decomposition(A)`: Computes the Cholesky decomposition of a matrix `A`.
 
-- `gaus_seidal(A, b, x0, tol, max_iterations)`: Implements the Gauss-Seidel method to solve a system of linear equations.
+- `gaus_seidal(A, b, x0, tol, max_iterations)`: Implements the Gauss-Seidel method to solve a system of linear equations.<br>
+
 
 - `jacobi(A, b, x0, tol, max_iterations)`: Implements the Jacobi method to solve a system of linear equations.
 
